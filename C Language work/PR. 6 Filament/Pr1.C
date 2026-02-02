@@ -27,3 +27,13 @@ int main() {
 
     return 0;
 }
+
+// output //
+
+Enter any string: nayan
+The given string is a Palindrome.
+--------------------------------
+Process exited after 42.4 seconds with return value 0
+Press any key to continue . . .
+
+
