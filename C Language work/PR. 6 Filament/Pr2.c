@@ -28,3 +28,24 @@ int main() {
 
     return 0;
 }
+
+// output //
+
+Enter any string: development
+Frequency of each letter:
+d => 1
+e => 3
+v => 1
+e => 2
+l => 1
+o => 1
+p => 1
+m => 1
+e => 1
+n => 1
+t => 1
+
+--------------------------------
+Process exited after 35.39 seconds with return value 0
+Press any key to continue . . .
+
