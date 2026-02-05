@@ -7,7 +7,7 @@ void mul();
 void divi();
 void mod();
 
-void menu();   // menu function
+void menu();   
 
 int main()
 {
@@ -15,7 +15,7 @@ int main()
 
     while (1)
     {
-        menu();   // ?? upar wala example (menu print)
+        menu();   
 
         printf("\nEnter your choice: ");
         scanf("%d", &choice);
@@ -154,3 +154,4 @@ Enter your choice: 0
 --------------------------------
 Process exited after 33.41 seconds with return value 0
 Press any key to continue . . .
+
